@@ -31,7 +31,7 @@ export default function Home() {
       {
         loading ? (<p className='mt-5'>Loading...</p>) : (
           <div className='container mt-3'>
-            <h1>Doctors</h1>
+            <h1>Doctors Information</h1>
             <div className="row row-cols-1 row-cols-sm-2 row-cols-md-3 g-4">
               
               {
